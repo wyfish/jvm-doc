@@ -19,8 +19,4 @@
 ## 写作规范
 参考《[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)》。
 
-## Contributions
-Contributions are welcome, but there are no guarantees that they are accepted as such.
 
-## License
-[Public Domain](https://baike.baidu.com/item/公有领域/9890908?fr=aladdin&fromid=10349925&fromtitle=Public+Domain).
