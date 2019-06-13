@@ -1,7 +1,5 @@
 # 深入理解 Java 虚拟机
 
-克隆自 https://github.com/doocs/jvm
-
 这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《[深入理解Java虚拟机——JVM高级特性与最佳实践(第2版)]( https://github.com/doocs/jvm/blob/master/book/jvm.pdf )》全书。
 
 ## 清单
